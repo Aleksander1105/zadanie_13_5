@@ -1,4 +1,4 @@
-var OSinfo = require('./OSinfo.js');
+var OSinfo = require('./OSXinfo.js');
 
 process.stdin.setEncoding('utf-8');
 process.stdin.on('readable', function() {
